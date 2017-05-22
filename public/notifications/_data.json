@@ -1,0 +1,57 @@
+{
+    "index":{
+        "headline": "Notifications",
+        "metadescription": "Mon centre de notifications où une thérapeute en relation d'aide qui aime accompager les gens dans leur apprentissage d'eux même donne de ses nouvelles.",
+        "underline": "Thérapeute spécialisé en relation humaine",
+        "metakeyword": "Chantal est une thérapeute en relation d'aide qui aime accompager les gens dans leur apprentissage d'eux même.",
+        "show": "fasle"
+    },
+    "notification1":{
+        "message": "Je vais être en vacance du 7 au 28 juin",
+        "dotcolor": "div class='circle-dot yellow'",
+        "statue": "true",
+        "show": "true"
+        
+    },
+    "notification2":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "true",
+        "show": "true"
+    }
+    ,
+    "notification3":{
+        "message": "Joyeux noël !",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false",
+        "show": "true"
+    }
+    ,
+    "notification4":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false",
+        "show": "true"
+    }
+    ,
+    "notification5":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false",
+        "show": "true"
+    }
+    ,
+    "notification6":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false",
+        "show": "true"
+    }
+    ,
+    "notification7":{
+        "message": "Allez lire mon dernier article de blog",
+        "dotcolor": "div class='circle-dot blue'",
+        "statue": "false",
+        "show": "true"
+    }
+}

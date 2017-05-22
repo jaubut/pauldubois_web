@@ -1,0 +1,9 @@
+include _header
+.container
+    .row
+        .col-12
+            h3 Mes activitées
+            for notification, slug in public.notifications._data
+                if _.includes(notification.show, 'true')
+                    include _notificationindex
+include ../includes/_footer

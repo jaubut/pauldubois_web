@@ -1,0 +1,26 @@
+{
+  "name": "chantalmasse",
+  "version": "1.0.0",
+  "description": "Chantal est une thérapeute en relation d'aide qui aime accompager les gens dans leur apprentissage d'eux même.",
+  "main": "index.jade",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaubut/maman_web.git"
+  },
+  "keywords": [
+    "relation d'aide"
+  ],
+  "author": "jeremie aubut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaubut/maman_web/issues"
+  },
+  "homepage": "https://github.com/jaubut/maman_web#readme",
+  "dependencies": {
+    "harp": "^0.20.3"
+  }
+}
+
